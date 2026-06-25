@@ -1,0 +1,80 @@
+# Flutter
+.dart_tool/
+.pub-cache/
+.pub/
+build/
+
+# Android
+*.iml
+.gradle/
+local.properties
+.idea/
+*.swp
+*.keystore
+
+# iOS
+*.mode1v3
+*.mode2v3
+*.moved-aside
+*.pbxuser
+*.perspectivev3
+**/.sync/
+*.xccheckout
+*.xcscmblueprint
+*.xcscheme
+*.xcuserstate
+*.xcworkspace
+project.xcworkspace/
+xcuserdata/
+
+# macOS
+.DS_Store
+
+# Windows
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.exp
+*.lib
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sln.ide
+*.cache
+*.ipch
+*.opensdf
+*.sdf
+*.tlog
+
+# Linux
+*.a
+*.so
+*.o
+*.ko
+*.d
+*.so.*
+*.ko.*
+*.d.*
+*.o.*
+*.a.*
+*.so.*.*
+*.ko.*.*
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Testing
+coverage/
+*.test.dart.js
+*.test.dart.js.deps
+*.test.dart.js.map
+*.test.dart.js.summary
+
+# Config
+*.env
+*.key
+*.pem
